@@ -197,7 +197,7 @@
 
     }
     .right_content p {
-        width: 70% !important;
+        width: 90% !important;
         max-width: 100%;
     }
     .right_content {
@@ -205,7 +205,7 @@
         width: 100% !important;
     }
     .all_accordion {
-        width: 70%;
+        width: 90%;
     }
 
 }
